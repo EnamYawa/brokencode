@@ -1,3 +1,3 @@
 colors = ["red", "green", "blue"]
-print(colors[3])
+print(colors[2])
 

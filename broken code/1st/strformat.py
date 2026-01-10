@@ -1,3 +1,3 @@
 age = 12
-print("I am " + age + " years old")
+print("I am ", age, " years old")
 
